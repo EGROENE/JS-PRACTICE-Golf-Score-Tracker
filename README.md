@@ -1,0 +1,3 @@
+# JS-PRACTICE-Golf-Score-Tracker
+This is a practice project I completed, the goal of which is to track a golfer's score by hole, as the name suggests. In this program, I made a Function in which the user can input the hole's par and his / her strokes for the hole, respectively, and the golfer's score for the hole played will display (in the console), as well as his or her total score for the round. The function must be called upon completion of each hole.
+My purpose for uploading this project is to simply exhibit the JavaScript I used to build the golf score tracker; I have not published it to any website.
